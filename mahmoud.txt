@@ -1,0 +1,67 @@
+mahmoud sayed mohamed abdeldayem
+
+create new project
+
+new folder
+
+git init
+
+make file (mahmoud)
+
+git add .
+
+git commit -m "createfile"
+
+making ripo in github
+
+git remote add origin https://github.com/abdeldayem660/mahmoud.git
+
+git push origin master 
+
+///////////step2//////////
+
+git branch dev
+
+git branch test
+
+git checkout dev
+
+touch devone
+
+touch devtwo
+
+git add . 
+
+git commit -m "adddiv"
+
+git push origin div
+
+git checkout master
+
+git merge div
+
+git push origin master
+
+
+///////////step4//////////
+
+
+git branch -d div
+
+
+git push origin --delete div
+
+
+
+//////////step5//////////
+
+git tag -a vi.4  -m "version vi.4"
+
+git show v1.4
+
+/////////step6//////////
+
+git push origin v1.4
+
+/////////step7//////////
+
